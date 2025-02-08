@@ -41,10 +41,10 @@ For Software:
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
+  [https://github.com/Jaliyya07/tinkle/blob/main/Screenshot%20from%202025-02-08%2017-12-33.png]
 *Add caption explaining what this shows*
 
-![Screenshot2](Add screenshot 2 here with proper name)
+[)
 *Add caption explaining what this shows*
 
 ![Screenshot3](Add screenshot 3 here with proper name)
