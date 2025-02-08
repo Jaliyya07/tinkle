@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Motivational Quotes</title>
+  <link rel="stylesheet" href="style.css">
+  <link rel="stylesheet" href="./style2.css">
+  
+  
+</head>
+<body>
+  <header>
+    <nav class="navbar">
+      <div class="logo">MINDMATE</div>
+      <input type="checkbox" id="menu-toggle">
+      <label for="menu-toggle" class="hamburger">
+        <span></span>
+        <span></span>
+        <span></span>
+      </label>
+      <ul class="nav-links">
+        <li><a href="index.html">Home</a></li>
+        <li><a href="about.html">About Us</a></li>
+        <li><a href="service.html">Services</a></li>
+        <li><a href="contact.html">Contact Us</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <h1>Motivational Quotes</h1>
+  <div id="quote">"Stay strong, because better days are coming."</div>
+  <button onclick="changeQuote()">Show Another Quote</button>
+
+  <script>
+    const quotes = [
+      "Believe in yourself and all that you are. Know that there is something inside you that is greater than any obstacle.",
+      "You are stronger than you think, braver than you feel, and loved more than you know.",
+      "Every day may not be good, but there is something good in every day.",
+      "Don’t give up. The beginning is always the hardest. Life rewards those who push through.",
+      "Your current situation is not your final destination. The best is yet to come."
+    ];
+
+    function changeQuote() {
+      const randomIndex = Math.floor(Math.random() * quotes.length);
+      document.getElementById('quote').innerText = quotes[randomIndex];
+    }
+  </script>
+<a href="index.html">click here to return back</a>
+
+</body>
+</html>
