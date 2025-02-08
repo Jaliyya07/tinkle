@@ -1,39 +1,33 @@
-# [Project Name] 🎯
+# [mental health supporter] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name:tinkle
 
 
 ### Team Members
-- Member 1: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Member 1: Fasna Jasmin- GEC KOZHIKODE
+- Member 2: Jaliyya - GEC KOZHIKODE
+  
 
 ### Hosted Project Link
 [mention your project hosted project link here]
 
 ### Project Description
-[2-3 lines about what your project does]
+to support people who suffer depression and anxiety
 
 ### The Problem statement
-[What ridiculous problem are you solving?]
+to support people who suffer depression and anxiety
+
+
 
 ### The Solution
-[How are you solving it? Keep it fun!]
+by creating a web page which will be useful for people who suffer depression to overcome it
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
-
-For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+- html,css
 
 ### Implementation
 For Software:
