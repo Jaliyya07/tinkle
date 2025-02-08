@@ -44,10 +44,7 @@ For Software:
   [https://github.com/Jaliyya07/tinkle/blob/main/Screenshot%20from%202025-02-08%2017-12-33.png]
 *Add caption explaining what this shows*
 
-[)
-*Add caption explaining what this shows*
-
-![Screenshot3](Add screenshot 3 here with proper name)
+[https://github.com/Jaliyya07/tinkle/blob/main/Screenshot%20from%202025-02-08%2017-12-53.png]
 *Add caption explaining what this shows*
 
 # Diagrams
@@ -59,30 +56,24 @@ For Hardware:
 # Schematic & Circuit
 ![Circuit](Add your circuit diagram here)
 *Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Team](Add photo of your team here)
-
-
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
+l product here)
 *Explain the final build*
 
 ### Project Demo
 # Video
 [Add your demo video link here]
-*Explain what the video demonstrates*
+*Explain what the v
+![Schematic](Add your schematic diagram here)
+*Add caption explaining the schematic*
 
-# Additional Demos
-[Add any extra demo materials/links]
+
+
+
+
+![Build](Add photos of build process here)
+*Explain the build steps*
+
+![Final](Add photo of finaideo demonstrates*
 
 ## Team Contributions
 - [Name 1]: [Specific contributions]
